@@ -64,6 +64,10 @@ header .container{
     box-shadow: 8px 8px 0px 0px #000000;
 }
 
+.links a:hover{
+    transform: translatey(-5px);
+}
+
 footer{
     text-align: center;
     padding: 40px;
